@@ -67,15 +67,28 @@ public class Ring
       newY = fighterTile.Y;
     }
 
+    System.Console.WriteLine($"Move info: newX '{newX}', newY: '{newY}'");
+
     if(IsCoordinatesInsideBounds(newX, newY))
     {
+      System.Console.WriteLine("Move is within bounds");
       var newTile = Tiles[newX, newY];
 
       if(newTile.IsEmpty())
       {
+        System.Console.WriteLine("Tile is empty");
         newTile.Fighter = fighter;
         fighter.Tile = newTile;
+        System.Console.WriteLine($"Fighter {fighter.Name} was assigned to the new tile");
       }
+      else
+      {
+        System.Console.WriteLine("Tile is not empty");
+      }
+    }
+    else
+    {
+      System.Console.WriteLine("Move is outside of bounds");
     }
   }
 
@@ -88,9 +101,11 @@ public class Ring
         var tile = Tiles[i, j];
         if(!tile.IsEmpty())
         {
-          if(tile.Fighter.Name == deathEvent.Fighter.Name)
+          var fighterName = deathEvent.Fighter.Name;
+          if(tile.Fighter.Name == fighterName)
           {
             tile.Fighter = null;
+            System.Console.WriteLine($"Fighter {fighterName} was removed from tile");
           }
         }
       } 
