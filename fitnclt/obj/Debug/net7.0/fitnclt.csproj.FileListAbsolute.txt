@@ -1,0 +1,15 @@
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/fitnclt.csproj.AssemblyReference.cache
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/fitnclt.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/fitnclt.AssemblyInfoInputs.cache
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/fitnclt.AssemblyInfo.cs
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/fitnclt.csproj.CoreCompileInputs.cache
+/home/carlos/projects/dotnet/fitn/fitnclt/bin/Debug/net7.0/fitnclt
+/home/carlos/projects/dotnet/fitn/fitnclt/bin/Debug/net7.0/fitnclt.deps.json
+/home/carlos/projects/dotnet/fitn/fitnclt/bin/Debug/net7.0/fitnclt.runtimeconfig.json
+/home/carlos/projects/dotnet/fitn/fitnclt/bin/Debug/net7.0/fitnclt.dll
+/home/carlos/projects/dotnet/fitn/fitnclt/bin/Debug/net7.0/fitnclt.pdb
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/fitnclt.dll
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/refint/fitnclt.dll
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/fitnclt.pdb
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/fitnclt.genruntimeconfig.cache
+/home/carlos/projects/dotnet/fitn/fitnclt/obj/Debug/net7.0/ref/fitnclt.dll
